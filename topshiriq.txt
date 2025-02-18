@@ -1,0 +1,32 @@
+1. 6 xil class
+2. inheritance, polimorfizm, encapsulation, abstraction
+dan samarali foydalanish
+3. Modellardan foydalanib console app yaratish
+4. Qaysidir soha muammosini hal qilsin
+5. Ma'lumotlar .json fileda saqlansin
+
+
+
+
+
+
+
+
+
+1. Shuhrat - School CRM
+2. Abdulloh - Medical Centre
+3. Sharifjon - Garden
+4. Asliddin - Console Game
+5. Muhammadamin - Print Servis
+6. Sunnatxo'ja - E-Shop
+7. Munira - Beauty Salon
+8. Mubina -
+9. Javohir - Building
+10. Salimjon - Terminal
+11. Muhammadaziz - RentCar
+12. Hilola - Library
+13. Chingiz - Console Game
+14. Madina - Public transport
+15. Sarvar - Universitet CRM
+16. Abbosxo'ja - Mamlakatlar
+17. Sherbek -

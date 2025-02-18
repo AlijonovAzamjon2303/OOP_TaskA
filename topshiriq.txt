@@ -20,7 +20,7 @@ dan samarali foydalanish
 5. Muhammadamin - Print Servis
 6. Sunnatxo'ja - E-Shop
 7. Munira - Beauty Salon
-8. Mubina -
+8. Mubina - Beauty Salon
 9. Javohir - Building
 10. Salimjon - Terminal
 11. Muhammadaziz - RentCar
@@ -29,4 +29,4 @@ dan samarali foydalanish
 14. Madina - Public transport
 15. Sarvar - Universitet CRM
 16. Abbosxo'ja - Mamlakatlar
-17. Sherbek -
+17. Sherbek - Business CRM
